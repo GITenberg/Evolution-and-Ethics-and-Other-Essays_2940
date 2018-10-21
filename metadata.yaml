@@ -1,5 +1,5 @@
 _repo: Evolution-and-Ethics-and-Other-Essays_2940
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcc 'BJ'
 - !lcsh 'Salvation Army'
 - !lcsh 'Ethics, Evolutionary'
+- GITenberg
 tableOfContents: 'Evolution and ethics: prolegomena -- Evolution and ethics -- Science
   and morals -- Capital, the mother of labour -- Social diseases and worse remedies.'
 title: Evolution and Ethics, and Other Essays
